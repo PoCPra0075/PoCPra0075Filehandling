@@ -1,0 +1,8 @@
+Student: Alice, Course: Mathematics, Marks: 85.0
+Teacher: Bob, Subject: Physics, Salary: 50000
+Student: Alice, Course: Mathematics, Marks: 85.0
+Teacher: Bob, Subject: Physics, Salary: 50000
+Student: Alice, Course: Mathematics, Marks: 85.0
+Teacher: Bob, Subject: Physics, Salary: 50000
+Student: Alice, Course: Mathematics, Marks: 85.0
+Teacher: Bob, Subject: Physics, Salary: 50000
